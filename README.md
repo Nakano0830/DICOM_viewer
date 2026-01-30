@@ -1,13 +1,19 @@
 # DICOM_viewer
-DICOMファイルのviewアプリです。
+実習課題として作成したDICOMファイルのViewrです。
+
 
 ## 作成した環境
 Visual Studio Code
+##ファイル構成
+```
+DICOM_viewr_vX.exe #実行ファイル
+viewr_main.py #ソースコード
+```
 
 ## 実行環境
 venvの仮想環境のセットアップ(Windowsを想定)
 ```
-python -m venv .venv
+python3 -m venv .venv
 .venv/Scripts/activate
 ```
 依存関係のインストール
@@ -39,3 +45,9 @@ python viewr_main.py
 アプリ左側の説明 <br>
 画面上で[ctrl]+[マウスホイールの回転]を使用することで、マウスポインタの位置を基準に拡大縮小の率を変更することができます。<br>
 画面上で左クリックを押しながら、マウスポインタを動かすことで、表示位置を動かすことができます。<br>
+
+
+## ライセンス
+Copyright (c) 2026 Nakano0830
+Released under the MIT license
+https://opensource.org/licenses/mit-license.php
