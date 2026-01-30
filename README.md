@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 DICOMファイルの保存先
-[DICOM_Folder]フォルダを[DICOM_Viewer_vX.exe]と同じ階層に作成し、その中に保存してください。 ※ vX の X はバージョン番号で読み替えてください。
+[DICOM_Folder]フォルダを[DICOM_Viewer_vX.exe]と同じ階層に作成し、その中に保存してください。 ※ vX の X はバージョン番号で読み替えてください。--
 ![temp_loc](./Images/loc_temp.png)
 
 ※.exeファイルが正常に動作しない場合(Download Zipでダウンロードした場合を想定)は
