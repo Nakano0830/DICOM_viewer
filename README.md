@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 DICOMファイルの保存先
 [DICOM_Folder]フォルダを[DICOM_Viewer_vX.exe]と同じ階層に作成し、その中に保存してください。 ※ vX の X はバージョン番号で読み替えてください。
-![temp_loc](./images/loc_temp.png)
+![temp_loc](./Images/loc_temp.png)
 
 ※.exeファイルが正常に動作しない場合(Download Zipでダウンロードした場合を想定)は
 解凍したファイルの[viewr_main.py]と同じ階層に[DICOM_Folder]を作成し、その中に画像を保存した上で、
@@ -31,4 +31,4 @@ python viewr_main.py
 同じ階層に用意した[DICOM_Folder]内のDICOMファイルを参照して画面に表示します。
 
 アプリ画面
-![demo](./images/app_demo.png)
+![demo](./Images/app_demo.png)
