@@ -1,7 +1,7 @@
 # DICOM_viewer
 DICOMファイルのviewアプリです。
 
-##実行環境
+## 実行環境
 venvの仮想環境のセットアップ(Windowsを想定)
 ```
 python -m venv .venv
