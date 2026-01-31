@@ -4,7 +4,7 @@
 
 ## 作成した環境
 Visual Studio Code
-##ファイル構成
+## ファイル構成
 ```
 DICOM_viewr_vX.exe #実行ファイル
 viewr_main.py #ソースコード
